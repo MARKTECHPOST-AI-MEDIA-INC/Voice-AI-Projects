@@ -2,6 +2,8 @@
 List of Voice AI/ TTS/Audio Model Projects with Full Implementation codes
 
 
+▶ A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Voice%20AI/deepgram_python_sdk_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/)
+
 ▶ A Hands-On Coding Tutorial for Microsoft VibeVoice Covering Speaker-Aware ASR, Real-Time TTS, and Speech-to-Speech Pipelines [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/microsoft_vibevoice_asr_realtime_tts_speech_to_speech_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/12/a-hands-on-coding-tutorial-for-microsoft-vibevoice-covering-speaker-aware-asr-real-time-tts-and-speech-to-speech-pipelines/)
 
 ▶ How to Design a Fully Streaming Voice Agent with End-to-End Latency Budgets, Incremental ASR, LLM Streaming, and Real-Time TTS [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/streaming_voice_agent_latency_budgets_end_to_end_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/)
