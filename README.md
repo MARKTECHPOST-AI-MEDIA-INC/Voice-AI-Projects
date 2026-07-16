@@ -2,6 +2,8 @@
 List of Voice AI/ TTS/Audio Model Projects with Full Implementation codes
 
 
+▶ Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Voice%20AI/patter_sdk_safe_ai_phone_agents_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/)
+
 ▶ How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Voice%20AI/nvidia_canary_1b_v2_asr_translation_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/)
 
 ▶ A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Voice%20AI/deepgram_python_sdk_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/)
